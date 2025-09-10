@@ -5,7 +5,7 @@ layout: base
 title: Background with Object
 description: Use JavaScript to have an in motion background.
 # These are locations of images to this game
-sprite: images/platformer/sprites/ufo.png
+sprite: images/platformer/sprites/plane.png
 background: images/platformer/backgrounds/sky.png
 permalink: /background
 ---
